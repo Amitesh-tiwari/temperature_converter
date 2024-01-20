@@ -106,5 +106,6 @@ input{
     color: #fff;
 }
 div#content{
+    margin-bottom:10px;
     margin-top: 27px;
 }
